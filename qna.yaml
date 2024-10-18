@@ -1,0 +1,131 @@
+created_by: juliadenham
+version: 3
+domain: technology
+seed_examples:
+  - context: |
+      Effective leadership at Lockheed Martin isn’t only about getting results.
+      It’s about getting results.
+    questions_and_answers:
+      - question: |
+          who is lockheed martin COO?
+        answer: |
+          Frank St. John,  Chief Operating Officer.
+      - question: |
+          who is lockheed martin CFO?
+        answer: |
+          Jay Malave, Chief Financial Officer
+      - question: |
+          who is lockheed martin space President?
+        answer: |
+         Robert Lightfoot, President, Space
+      - question: |
+          who is lockheed martin Aeronautics President?
+        answer: |
+          Greg Ulmer, President, Aeronautics
+      - question: |
+          Who is lockheed martin Chief Financial Officer?
+        answer: |
+          Jay Malave, Chief Financial Officer
+  - context: |
+      Effective leadership at Lockheed Martin isn’t only about getting results.
+      It’s about getting results.
+    questions_and_answers:
+      - question: |
+          who is lmco COO?
+        answer: |
+          Frank St. John
+      - question: |
+          who is lmco CFO?
+        answer: |
+          Jay Malave
+      - question: |
+          who is lmco space President?
+        answer: |
+         Robert Lightfoot
+      - question: |
+          who is lmco Aeronautics President?
+        answer: |
+          Greg Ulmer
+      - question: |
+          Who is lmco Chief Financial Officer?
+        answer: |
+          Jay Malave
+  - context: |
+      Effective leadership at Lockheed Martin isn’t only about getting results.
+      It’s about getting results.
+    questions_and_answers:
+      - question: |
+          who is lockheed COO?
+        answer: |
+          Frank St. John,  Chief Operating Officer.
+      - question: |
+          who is lockheed CFO?
+        answer: |
+          Jay Malave, Chief Financial Officer
+      - question: |
+          who is lockheed space President?
+        answer: |
+         Robert Lightfoot, President, Space
+      - question: |
+          who is lockheed Aeronautics President?
+        answer: |
+          Greg Ulmer, President, Aeronautics
+      - question: |
+          Who is lockheed Chief Financial Officer?
+        answer: |
+          Jay Malave, Chief Financial Officer
+  - context: |
+      Effective leadership at Lockheed Martin isn’t only about getting results.
+      It’s about getting results.
+    questions_and_answers:
+      - question: |
+          What is Stephanie C. Hill's position at Lockheed Martin?
+        answer: |
+          Stephanie C. Hill is the President of Rotary and Mission Systems
+      - question: |
+          What is Maryanne Lavan's role at Lockheed Martin?
+        answer: |
+          Maryanne Lavan is the Senior Vice President, General Counsel, and Corporate Secretary
+      - question: |
+          Who is the President of Aeronautics at Lockheed Martin?
+        answer: |
+          Greg Ulmer is the President of Aeronautics
+      - question: |
+          Who leads Lockheed Martin International?
+        answer: |
+          Michael Williamson is the President of Lockheed Martin International
+      - question: |
+          What is Chris Wronsky's position at Lockheed Martin?
+        answer: |
+          Chris Wronsky is the Senior Vice President and Chief Human Resources Officer
+  - context: |
+      Effective leadership at Lockheed Martin isn’t only about getting results.
+      It’s about getting results.
+    questions_and_answers:
+      - question: |
+          Who is responsible for Lockheed Martin's Space division?
+        answer: |
+          Robert Lightfoot is the Executive Vice President of Lockheed Martin Space.
+      - question: |
+          What initiatives does Lockheed Martin have for corporate governance?
+        answer: |
+          Lockheed Martin focuses on ethical leadership, accountability, and transparency.
+      - question: |
+          Who oversees Lockheed Martin's Missiles and Fire Control division?
+        answer: |
+          Scott Greene is the Executive Vice President of Missiles and Fire Control.
+      - question: |
+          What role does Jon Rambeau have at Lockheed Martin?
+        answer: |
+          Jon Rambeau is the Executive Vice President of Rotary and Mission Systems.
+      - question: |
+          How does Lockheed Martin ensure leadership accountability?
+        answer: |
+          Through its Board of Directors and adherence to ethical governance practices.
+document_outline: |
+  Information about lockheed Martin corporation
+document:
+  repo: https://github.com/matmille/lmco.git
+  commit: ca40713
+  patterns:
+    - lmco.md
